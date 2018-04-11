@@ -1,0 +1,2 @@
+C:\Users\Public\Documents\Unity Projects\designAR\App\designAR\designAR.csproj;x86
+C:\Users\Public\Documents\Unity Projects\designAR\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
